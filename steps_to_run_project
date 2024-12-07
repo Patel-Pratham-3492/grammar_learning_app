@@ -1,0 +1,39 @@
+Sure! Here’s a concise list of the steps:
+
+### 1. **Install Dependencies**
+- Ensure Expo CLI is installed:  
+  ```bash
+  npm install -g expo-cli
+  ```
+- Navigate to your project folder:  
+  ```bash
+  cd your-project-directory
+  ```
+- Install dependencies with Expo:  
+  ```bash
+  expo install
+  ```
+
+### 2. **Run the Expo Project**
+- Start the project:  
+  ```bash
+  expo start
+  ```
+- Or run on specific platforms:
+  - For Android:  
+    ```bash
+    expo start --android
+    ```
+  - For iOS:  
+    ```bash
+    expo start --ios
+    ```
+
+### 3. **Replace the App Folder**
+- Copy the new `app` folder into your project.
+- Run the project again:  
+  ```bash
+  expo start
+  ```
+
+These steps should help you set up, run, and update your project!
